@@ -77,9 +77,9 @@
             // 
             this.buttonSignUp.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.buttonSignUp.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(143)))), ((int)(((byte)(228)))), ((int)(((byte)(185)))));
-            this.buttonSignUp.BorderColor = System.Drawing.Color.PaleVioletRed;
+            this.buttonSignUp.BorderColor = System.Drawing.Color.Lime;
             this.buttonSignUp.BorderRadius = 20;
-            this.buttonSignUp.BorderSize = 0;
+            this.buttonSignUp.BorderSize = 1;
             this.buttonSignUp.FlatAppearance.BorderSize = 0;
             this.buttonSignUp.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.buttonSignUp.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
@@ -144,9 +144,9 @@
             // 
             this.buttonLogIn.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.buttonLogIn.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(37)))), ((int)(((byte)(75)))), ((int)(((byte)(133)))));
-            this.buttonLogIn.BorderColor = System.Drawing.Color.PaleVioletRed;
+            this.buttonLogIn.BorderColor = System.Drawing.Color.Navy;
             this.buttonLogIn.BorderRadius = 20;
-            this.buttonLogIn.BorderSize = 0;
+            this.buttonLogIn.BorderSize = 1;
             this.buttonLogIn.FlatAppearance.BorderSize = 0;
             this.buttonLogIn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.buttonLogIn.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
@@ -163,9 +163,9 @@
             // 
             this.buttonExit.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.buttonExit.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(213)))), ((int)(((byte)(54)))), ((int)(((byte)(41)))));
-            this.buttonExit.BorderColor = System.Drawing.Color.PaleVioletRed;
+            this.buttonExit.BorderColor = System.Drawing.Color.Maroon;
             this.buttonExit.BorderRadius = 20;
-            this.buttonExit.BorderSize = 0;
+            this.buttonExit.BorderSize = 1;
             this.buttonExit.FlatAppearance.BorderSize = 0;
             this.buttonExit.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.buttonExit.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
