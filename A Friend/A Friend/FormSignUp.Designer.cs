@@ -47,7 +47,7 @@
             this.labelTittle.AutoSize = true;
             this.labelTittle.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.labelTittle.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(143)))), ((int)(((byte)(228)))), ((int)(((byte)(185)))));
-            this.labelTittle.Location = new System.Drawing.Point(95, 23);
+            this.labelTittle.Location = new System.Drawing.Point(111, 23);
             this.labelTittle.Name = "labelTittle";
             this.labelTittle.Size = new System.Drawing.Size(110, 31);
             this.labelTittle.TabIndex = 0;
@@ -58,7 +58,7 @@
             this.labelWarning.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.labelWarning.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.labelWarning.ForeColor = System.Drawing.Color.Red;
-            this.labelWarning.Location = new System.Drawing.Point(2, 302);
+            this.labelWarning.Location = new System.Drawing.Point(18, 302);
             this.labelWarning.Name = "labelWarning";
             this.labelWarning.Size = new System.Drawing.Size(300, 112);
             this.labelWarning.TabIndex = 0;
@@ -78,7 +78,7 @@
             this.textBoxConfirmPassword.BorderRadius = 20;
             this.textBoxConfirmPassword.BorderSize = 2;
             this.textBoxConfirmPassword.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBoxConfirmPassword.Location = new System.Drawing.Point(25, 195);
+            this.textBoxConfirmPassword.Location = new System.Drawing.Point(41, 195);
             this.textBoxConfirmPassword.Margin = new System.Windows.Forms.Padding(4);
             this.textBoxConfirmPassword.Multiline = false;
             this.textBoxConfirmPassword.Name = "textBoxConfirmPassword";
@@ -104,7 +104,7 @@
             this.buttonSignUp.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.buttonSignUp.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.buttonSignUp.ForeColor = System.Drawing.Color.Transparent;
-            this.buttonSignUp.Location = new System.Drawing.Point(25, 260);
+            this.buttonSignUp.Location = new System.Drawing.Point(41, 260);
             this.buttonSignUp.Name = "buttonSignUp";
             this.buttonSignUp.Size = new System.Drawing.Size(250, 40);
             this.buttonSignUp.TabIndex = 4;
@@ -121,7 +121,7 @@
             this.textBoxPassword.BorderRadius = 20;
             this.textBoxPassword.BorderSize = 2;
             this.textBoxPassword.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBoxPassword.Location = new System.Drawing.Point(25, 135);
+            this.textBoxPassword.Location = new System.Drawing.Point(41, 135);
             this.textBoxPassword.Margin = new System.Windows.Forms.Padding(4);
             this.textBoxPassword.Multiline = false;
             this.textBoxPassword.Name = "textBoxPassword";
@@ -145,7 +145,7 @@
             this.textBoxUserName.BorderRadius = 20;
             this.textBoxUserName.BorderSize = 2;
             this.textBoxUserName.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBoxUserName.Location = new System.Drawing.Point(25, 75);
+            this.textBoxUserName.Location = new System.Drawing.Point(41, 75);
             this.textBoxUserName.Margin = new System.Windows.Forms.Padding(4);
             this.textBoxUserName.Multiline = false;
             this.textBoxUserName.Name = "textBoxUserName";
@@ -171,7 +171,7 @@
             this.buttonCancel.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.buttonCancel.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.buttonCancel.ForeColor = System.Drawing.Color.White;
-            this.buttonCancel.Location = new System.Drawing.Point(25, 418);
+            this.buttonCancel.Location = new System.Drawing.Point(41, 418);
             this.buttonCancel.Name = "buttonCancel";
             this.buttonCancel.Size = new System.Drawing.Size(250, 40);
             this.buttonCancel.TabIndex = 5;
@@ -188,7 +188,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
-            this.ClientSize = new System.Drawing.Size(302, 500);
+            this.ClientSize = new System.Drawing.Size(334, 500);
             this.Controls.Add(this.textBoxConfirmPassword);
             this.Controls.Add(this.labelTittle);
             this.Controls.Add(this.buttonSignUp);
