@@ -142,6 +142,12 @@
     <Compile Include="FormContactRemoved.Designer.cs">
       <DependentUpon>FormContactRemoved.cs</DependentUpon>
     </Compile>
+    <Compile Include="FormForgotPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormForgotPassword.Designer.cs">
+      <DependentUpon>FormForgotPassword.cs</DependentUpon>
+    </Compile>
     <Compile Include="FormGetStarted.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -217,6 +223,9 @@
     <EmbeddedResource Include="FormContactRemoved.resx">
       <DependentUpon>FormContactRemoved.cs</DependentUpon>
       <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormForgotPassword.resx">
+      <DependentUpon>FormForgotPassword.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FormGetStarted.resx">
       <DependentUpon>FormGetStarted.cs</DependentUpon>

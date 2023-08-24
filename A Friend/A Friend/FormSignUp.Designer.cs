@@ -103,7 +103,7 @@
             this.buttonSignUp.FlatAppearance.BorderSize = 0;
             this.buttonSignUp.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.buttonSignUp.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.buttonSignUp.ForeColor = System.Drawing.Color.White;
+            this.buttonSignUp.ForeColor = System.Drawing.Color.Transparent;
             this.buttonSignUp.Location = new System.Drawing.Point(25, 260);
             this.buttonSignUp.Name = "buttonSignUp";
             this.buttonSignUp.Size = new System.Drawing.Size(250, 40);
